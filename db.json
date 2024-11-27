@@ -10,106 +10,106 @@
       "review_text": "AnyVan did such a good job, we’re so happy..."
     },
     "pins": [
-          {
-            "id": 1,
-            "lat": 52.5042705,
-            "lng": -1.9117693,
-            "imageID": 0,
-            "textLine1": "3-Bedroom House move",
-            "textLine2": "8 miles",
-            "textLine3": "£1009 - saved £673!",
-            "stars": 5
-          },
-          {
-            "id": 2,
-            "lat": 52.4889091,
-            "lng": -1.8832736,
-            "imageID": 2,
-            "textLine1": "Apartment move",
-            "textLine2": "100 miles",
-            "textLine3": "£209 - saved £140!",
-            "stars": 5
-          },
-          {
-            "id": 3,
-            "lat": 52.4981967,
-            "lng": -1.8255509,
-            "imageID": 2,
-            "textLine1": "1-Bedroom Flat move",
-            "textLine2": "10 miles",
-            "textLine3": "£267 - saved £178!",
-            "stars": 5
-          },
-          {
-            "id": 4,
-            "lat": 52.5485877,
-            "lng": -1.9350253,
-            "imageID": 3,
-            "textLine1": "2-Bedroom House move",
-            "textLine2": "7 miles",
-            "textLine3": "£229 - saved £153!",
-            "stars": 5
-          },
-          {
-            "id": 5,
-            "lat": 52.4778636,
-            "lng": -1.9195223,
-            "imageID": 3,
-            "textLine1": "2-Bedroom Flat move",
-            "textLine2": "2 miles",
-            "textLine3": "£79 - saved £53!",
-            "stars": 5
-          },
-          {
-            "id": 6,
-            "lat": 52.4195915,
-            "lng": -1.9560792,
-            "imageID": 0,
-            "textLine1": "1-Bedroom Flat move",
-            "textLine2": "4 miles",
-            "textLine3": "£79 - saved £53!",
-            "stars": 5
-          },
-          {
-            "id": 7,
-            "lat": 52.4142396,
-            "lng": -1.9785936,
-            "imageID": 5,
-            "textLine1": "3-Bedroom House move",
-            "textLine2": "14 miles",
-            "textLine3": "£446 - saved £298!",
-            "stars": 5
-          },
-          {
-            "id": 8,
-            "lat": 52.5238982,
-            "lng": -1.8747652,
-            "imageID": 6,
-            "textLine1": "2-Bedroom House move",
-            "textLine2": "6 miles",
-            "textLine3": "£269 - saved £180!",
-            "stars": 4.5
-          },
-          {
-            "id": 9,
-            "lat": 52.5442381,
-            "lng": -1.8708441,
-            "imageID": 3,
-            "textLine1": "2-Bedroom House move",
-            "textLine2": "4 miles",
-            "textLine3": "£481 - saved £321!",
-            "stars": 5
-          },
-          {
-            "id": 10,
-            "lat": 52.4594473,
-            "lng": -1.9260314,
-            "imageID": 2,
-            "textLine1": "2-Bedroom Flat move",
-            "textLine2": "2 miles",
-            "textLine3": "£96 - saved £64!",
-            "stars": 5
-          }
-        ]
+      {
+        "id": 1,
+        "lat": 52.5042705,
+        "lng": -1.9117693,
+        "imageID": 0,
+        "textLine1": "3-Bedroom House move",
+        "textLine2": "8 miles",
+        "textLine3": "£1009 - saved £673!",
+        "stars": 5
+      },
+      {
+        "id": 2,
+        "lat": 52.4889091,
+        "lng": -1.8832736,
+        "imageID": 2,
+        "textLine1": "Apartment move",
+        "textLine2": "100 miles",
+        "textLine3": "£209 - saved £140!",
+        "stars": 5
+      },
+      {
+        "id": 3,
+        "lat": 52.4981967,
+        "lng": -1.8255509,
+        "imageID": 2,
+        "textLine1": "1-Bedroom Flat move",
+        "textLine2": "10 miles",
+        "textLine3": "£267 - saved £178!",
+        "stars": 5
+      },
+      {
+        "id": 4,
+        "lat": 52.5485877,
+        "lng": -1.9350253,
+        "imageID": 3,
+        "textLine1": "2-Bedroom House move",
+        "textLine2": "7 miles",
+        "textLine3": "£229 - saved £153!",
+        "stars": 5
+      },
+      {
+        "id": 5,
+        "lat": 52.4778636,
+        "lng": -1.9195223,
+        "imageID": 3,
+        "textLine1": "2-Bedroom Flat move",
+        "textLine2": "2 miles",
+        "textLine3": "£79 - saved £53!",
+        "stars": 5
+      },
+      {
+        "id": 6,
+        "lat": 52.4195915,
+        "lng": -1.9560792,
+        "imageID": 0,
+        "textLine1": "1-Bedroom Flat move",
+        "textLine2": "4 miles",
+        "textLine3": "£79 - saved £53!",
+        "stars": 5
+      },
+      {
+        "id": 7,
+        "lat": 52.4142396,
+        "lng": -1.9785936,
+        "imageID": 5,
+        "textLine1": "3-Bedroom House move",
+        "textLine2": "14 miles",
+        "textLine3": "£446 - saved £298!",
+        "stars": 5
+      },
+      {
+        "id": 8,
+        "lat": 52.5238982,
+        "lng": -1.8747652,
+        "imageID": 6,
+        "textLine1": "2-Bedroom House move",
+        "textLine2": "6 miles",
+        "textLine3": "£269 - saved £180!",
+        "stars": 4.5
+      },
+      {
+        "id": 9,
+        "lat": 52.5442381,
+        "lng": -1.8708441,
+        "imageID": 3,
+        "textLine1": "2-Bedroom House move",
+        "textLine2": "4 miles",
+        "textLine3": "£481 - saved £321!",
+        "stars": 5
+      },
+      {
+        "id": 10,
+        "lat": 52.4594473,
+        "lng": -1.9260314,
+        "imageID": 2,
+        "textLine1": "2-Bedroom Flat move",
+        "textLine2": "2 miles",
+        "textLine3": "£96 - saved £64!",
+        "stars": 5
+      }
+    ]
   }
 }
