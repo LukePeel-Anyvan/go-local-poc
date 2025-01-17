@@ -236,13 +236,13 @@
   "account-manager": [
     {
       "id": "B15",
-      "expert_profile": "/profiles/david.png",
+      "expert_profile": "https://placehold.co/512",
       "expert_name": "David",
       "expert_message": "Hello there"
     },
     {
       "id": "W7",
-      "expert_profile": "/profiles/david.png",
+      "expert_profile": "https://placehold.co/498",
       "expert_name": "James",
       "expert_message": "Hey, I’m John and I’ve helped 13 people move in your area. Give me a call on 0161 223344 to get you the best price and give a few handy hints and tips to make your move day go smoothly."
     }
