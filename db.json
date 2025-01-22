@@ -242,7 +242,7 @@
     },
     {
       "id": "W7",
-      "expert_profile": "https://github.com/LukePeel-Anyvan/go-local-poc/blob/main/david-expert.png",
+      "expert_profile": "https://raw.githubusercontent.com/LukePeel-Anyvan/go-local-poc/refs/heads/main/david-expert.png",
       "expert_name": "John",
       "expert_message": "Hey, I’m John and I’ve helped 13 people move in your area. Give me a call on 0161 223344 to get you the best price and give a few handy hints and tips to make your move day go smoothly."
     }
