@@ -247,7 +247,7 @@
       "expert_message": "Hey, I’m John and I’ve helped 13 people move in your area. Give me a call on 0161 223344 to get you the best price and give a few handy hints and tips to make your move day go smoothly."
     }
   ],
-  "reviews" : [
+"reviews": [
     {
       "id": "B15",
       "location": "Birmingham",
@@ -255,20 +255,47 @@
         {
           "id": 1234,
           "location": "Brummy Road",
-          "rating": 4.5,
-          "review": "A very short review so we can see what it looks like!",
-          "type": "3 bedroom house",
-          "typeEmoji": "🏠",
+          "rating": 4.8,
+          "review": "Excellent service from start to finish. The team carefully wrapped all our antique furniture and nothing was damaged in the move. Very professional and efficient.",
+          "type": "House Move",
+          "typeEmoji": "🏡",
           "date": "2024-09-21"
         },
         {
           "id": 1235,
-          "location": "Selly Oak Road",
-          "rating": 4.5,
-          "review": "A very short review so we can see what it looks like!",
-          "type": "3 bedroom house",
+          "location": "Selly Oak",
+          "rating": 3.5,
+          "review": "Arrived 30 minutes late but worked quickly to make up time. One box was slightly damaged but contents were fine. Reasonable price for student move.",
+          "type": "Student Move",
+          "typeEmoji": "🛖",
+          "date": "2024-08-15"
+        },
+        {
+          "id": 1236,
+          "location": "Edgbaston",
+          "rating": 4.9,
+          "review": "Handled our piano and artwork with exceptional care. Used specialist equipment and padding. Worth every penny for valuable items.",
+          "type": "Specialty Move",
+          "typeEmoji": "🕰️",
+          "date": "2024-10-03"
+        },
+        {
+          "id": 1237,
+          "location": "Moseley",
+          "rating": 4.2,
+          "review": "Good communication throughout. Slight delay due to traffic but kept us informed. Helpful with disassembling furniture.",
+          "type": "Apartment Move",
+          "typeEmoji": "🏢",
+          "date": "2024-09-30"
+        },
+        {
+          "id": 1238,
+          "location": "Harborne",
+          "rating": 4.6,
+          "review": "Great value for money. Three-person team worked efficiently. Helped with packing on the day at no extra charge.",
+          "type": "House Move",
           "typeEmoji": "🏠",
-          "date": "2024-09-21"
+          "date": "2024-09-25"
         }
       ]
     },
@@ -277,22 +304,49 @@
       "location": "Ealing",
       "reviews": [
         {
-          "id": 1234,
-          "location": "London Road",
-          "rating": 4.5,
-          "review": "A very short review so we can see what it looks like!",
-          "type": "3 bedroom house",
-          "typeEmoji": "🏠",
+          "id": 1239,
+          "location": "Ealing Broadway",
+          "rating": 4.7,
+          "review": "Seamless move from a 4th floor flat with no lift. Team was incredibly organized and careful with our belongings.",
+          "type": "Apartment Move",
+          "typeEmoji": "🏡",
           "date": "2024-09-21"
         },
         {
-          "id": 1235,
-          "location": "South Road",
-          "rating": 4.5,
-          "review": "A very short review so we can see what it looks like!",
-          "type": "3 bedroom house",
+          "id": 1240,
+          "location": "South Ealing",
+          "rating": 4.3,
+          "review": "Professional service but took longer than quoted. Extra care with fragile items appreciated. Would use again.",
+          "type": "House Move",
           "typeEmoji": "🏠",
-          "date": "2024-09-21"
+          "date": "2024-08-28"
+        },
+        {
+          "id": 1241,
+          "location": "Northfields",
+          "rating": 4.9,
+          "review": "Outstanding service moving my grandmother's belongings. Patient, respectful, and took extra time to help her settle in.",
+          "type": "Senior Move",
+          "typeEmoji": "🧓🏻",
+          "date": "2024-10-05"
+        },
+        {
+          "id": 1242,
+          "location": "West Ealing",
+          "rating": 3.8,
+          "review": "Mixed experience. Good value but some minor scratches on furniture. Responsive to complaints and offered compensation.",
+          "type": "House Move",
+          "typeEmoji": "🏠",
+          "date": "2024-09-15"
+        },
+        {
+          "id": 1243,
+          "location": "Pitshanger",
+          "rating": 4.5,
+          "review": "Efficient same-day service for urgent office relocation. Well-equipped team, handled IT equipment carefully.",
+          "type": "Office Move",
+          "typeEmoji": "🏤",
+          "date": "2024-09-18"
         }
       ]
     }
