@@ -219,16 +219,6 @@
           "textLine2": "4 miles",
           "textLine3": "£481 - saved £321!",
           "stars": 5
-        },
-        {
-          "id": 10,
-          "lat": 52.4594473,
-          "lng": -1.9260314,
-          "imageID": 2,
-          "textLine1": "2-Bedroom Flat move",
-          "textLine2": "2 miles",
-          "textLine3": "£96 - saved £64!",
-          "stars": 5
         }
       ]
     }
@@ -278,15 +268,6 @@
           "type": "Specialty Move",
           "typeEmoji": "🕰️",
           "date": "2024-10-03"
-        },
-        {
-          "id": 1237,
-          "location": "Moseley",
-          "rating": 4.2,
-          "review": "Good communication throughout. Slight delay due to traffic but kept us informed. Helpful with disassembling furniture.",
-          "type": "Apartment Move",
-          "typeEmoji": "🏢",
-          "date": "2024-09-30"
         }
       ]
     },
@@ -320,15 +301,6 @@
           "type": "Senior Move",
           "typeEmoji": "🧓🏻",
           "date": "2024-10-05"
-        },
-        {
-          "id": 1242,
-          "location": "West Ealing",
-          "rating": 3.8,
-          "review": "Mixed experience. Good value but some minor scratches on furniture. Responsive to complaints and offered compensation.",
-          "type": "House Move",
-          "typeEmoji": "🏠",
-          "date": "2024-09-15"
         }
       ]
     }
