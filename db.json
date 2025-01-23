@@ -246,5 +246,55 @@
       "expert_name": "John",
       "expert_message": "Hey, I’m John and I’ve helped 13 people move in your area. Give me a call on 0161 223344 to get you the best price and give a few handy hints and tips to make your move day go smoothly."
     }
+  ],
+  "reviews" : [
+    {
+      "id": "B15",
+      "location": "Birmingham",
+      "reviews": [
+        {
+          "id": 1234,
+          "location": "Brummy Road",
+          "rating": 4.5,
+          "review": "A very short review so we can see what it looks like!",
+          "type": "3 bedroom house",
+          "typeEmoji": "🏠",
+          "date": "2024-09-21"
+        },
+        {
+          "id": 1235,
+          "location": "Selly Oak Road",
+          "rating": 4.5,
+          "review": "A very short review so we can see what it looks like!",
+          "type": "3 bedroom house",
+          "typeEmoji": "🏠",
+          "date": "2024-09-21"
+        }
+      ]
+    },
+    {
+      "id": "W7",
+      "location": "Ealing",
+      "reviews": [
+        {
+          "id": 1234,
+          "location": "London Road",
+          "rating": 4.5,
+          "review": "A very short review so we can see what it looks like!",
+          "type": "3 bedroom house",
+          "typeEmoji": "🏠",
+          "date": "2024-09-21"
+        },
+        {
+          "id": 1235,
+          "location": "South Road",
+          "rating": 4.5,
+          "review": "A very short review so we can see what it looks like!",
+          "type": "3 bedroom house",
+          "typeEmoji": "🏠",
+          "date": "2024-09-21"
+        }
+      ]
+    }
   ]
 }
