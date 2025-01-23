@@ -247,7 +247,7 @@
           "location": "Brummy Road",
           "rating": 4.8,
           "review": "Excellent service from start to finish. The team carefully wrapped all our antique furniture and nothing was damaged in the move. Very professional and efficient.",
-          "type": "House Move",
+          "type": "3 bed house",
           "typeEmoji": "🏡",
           "date": "2024-09-21"
         },
@@ -256,7 +256,7 @@
           "location": "Selly Oak",
           "rating": 3.5,
           "review": "Arrived 30 minutes late but worked quickly to make up time. One box was slightly damaged but contents were fine. Reasonable price for student move.",
-          "type": "Student Move",
+          "type": "6 bed student house",
           "typeEmoji": "🛖",
           "date": "2024-08-15"
         },
@@ -265,7 +265,7 @@
           "location": "Edgbaston",
           "rating": 4.9,
           "review": "Handled our piano and artwork with exceptional care. Used specialist equipment and padding. Worth every penny for valuable items.",
-          "type": "Specialty Move",
+          "type": "1 bed hut",
           "typeEmoji": "🕰️",
           "date": "2024-10-03"
         }
@@ -280,7 +280,7 @@
           "location": "Ealing Broadway",
           "rating": 4.7,
           "review": "Seamless move from a 4th floor flat with no lift. Team was incredibly organized and careful with our belongings.",
-          "type": "Apartment Move",
+          "type": "1 bed apartment",
           "typeEmoji": "🏡",
           "date": "2024-09-21"
         },
@@ -289,7 +289,7 @@
           "location": "South Ealing",
           "rating": 4.3,
           "review": "Professional service but took longer than quoted. Extra care with fragile items appreciated. Would use again.",
-          "type": "House Move",
+          "type": "5 bed house",
           "typeEmoji": "🏠",
           "date": "2024-08-28"
         },
@@ -298,7 +298,7 @@
           "location": "Northfields",
           "rating": 4.9,
           "review": "Outstanding service moving my grandmother's belongings. Patient, respectful, and took extra time to help her settle in.",
-          "type": "Senior Move",
+          "type": "1 bed flat",
           "typeEmoji": "🧓🏻",
           "date": "2024-10-05"
         }
