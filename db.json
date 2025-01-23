@@ -287,15 +287,6 @@
           "type": "Apartment Move",
           "typeEmoji": "🏢",
           "date": "2024-09-30"
-        },
-        {
-          "id": 1238,
-          "location": "Harborne",
-          "rating": 4.6,
-          "review": "Great value for money. Three-person team worked efficiently. Helped with packing on the day at no extra charge.",
-          "type": "House Move",
-          "typeEmoji": "🏠",
-          "date": "2024-09-25"
         }
       ]
     },
@@ -338,15 +329,6 @@
           "type": "House Move",
           "typeEmoji": "🏠",
           "date": "2024-09-15"
-        },
-        {
-          "id": 1243,
-          "location": "Pitshanger",
-          "rating": 4.5,
-          "review": "Efficient same-day service for urgent office relocation. Well-equipped team, handled IT equipment carefully.",
-          "type": "Office Move",
-          "typeEmoji": "🏤",
-          "date": "2024-09-18"
         }
       ]
     }
